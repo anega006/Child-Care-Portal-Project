@@ -1,5 +1,4 @@
 # Child-Care-Portal-Project
-=======
 ### Project Title
 Portal for Child Care Institutions
 ### Ministry Category
@@ -10,5 +9,4 @@ The project is aimed to build a web application directly monitored by District C
 Frontend Programming (Bootstrap 4, CSS3, HTML5, JavaScript)
 Backend Programming (Python , Django, MySQL) details are not provided.
 
-[Link to project]
-(https://anega006.github.io/Child-Care-Portal-Project/)
+(https://anega006.github.io/Child-Care-Portal-Project/)[Link to project]
